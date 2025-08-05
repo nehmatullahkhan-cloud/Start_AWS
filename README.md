@@ -33,6 +33,7 @@ This repository will track all my progress, notes, and screenshots as I move for
 - [ ] Attach API Gateway to Lambda
 - [ ] Set up basic CloudWatch monitoring
 
+---
 
 ## 📸 Screenshots
 
@@ -41,6 +42,7 @@ I'll upload screenshots here as proof of work:
 📁 `/screenshots/ec2-launch.png` – EC2 Launch  
 📁 `/screenshots/s3-bucket.png` – S3 Bucket Created  
 
+---
 
 ## 🧠 What I Plan to Learn
 
@@ -48,6 +50,39 @@ I'll upload screenshots here as proof of work:
 - ✅ S3 – Object Storage for files and websites  
 - ✅ IAM – Identity and Access Management  
 - ✅ Lambda – Serverless Function Execution  
+- ✅ CloudWatch – Monitoring  
+- ✅ VPC – Networking  
+- ✅ CloudFormation – Infrastructure as Code
+
+---
+
+## 🛠️ Tools I'm Using
+
+- AWS Free Tier Account  
+- GitHub for documentation  
+- VS Code for notes/projects  
+- MobaXterm for SSH access  
+- LinkedIn to document my public journey  
+
+---
+
+## 🎯 Final Goal
+
+My goal is to complete my 3-month AWS training and build a strong project portfolio so I can get hired as a **Junior Cloud Engineer** or **AWS DevOps Intern**.
+
+---
+
+## 📬 Contact Me
+
+**Name**: Nehmat Ullah Khan  
+**Email**: nehmatullahkh@gmail.com  
+**LinkedIn**: [linkedin.com/in/nehmat-ullah-khan-69b800378](https://www.linkedin.com/in/nehmat-ullah-khan-69b800378)
+
+---
+
+## 🏷️ License
+
+This project is licensed under the MIT License – feel free to use or contribute.- ✅ Lambda – Serverless Function Execution  
 - ✅ CloudWatch – Monitoring  
 - ✅ VPC – Networking  
 - ✅ CloudFormation – Infrastructure as Code
