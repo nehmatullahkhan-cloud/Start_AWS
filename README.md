@@ -22,16 +22,16 @@ This repository will track all my progress, notes, and screenshots as I move for
 
 ### 📅 Week 1:
 - [x] Created AWS account
-- [ ] Launch first EC2 instance
-- [ ] Connect to EC2 using SSH (MobaXterm or CLI)
-- [ ] Create and configure S3 bucket
-- [ ] Create IAM user with custom permissions
+- [x] Launch first EC2 instance
+- [x] Connect to EC2 using SSH (MobaXterm or CLI)
+- [x] Create and configure S3 bucket
+- [x] Create IAM user with custom permissions
 
 ### 📅 Week 2 (Planned):
-- [ ] Deploy a static website on S3
-- [ ] Launch and test a Lambda function
-- [ ] Attach API Gateway to Lambda
-- [ ] Set up basic CloudWatch monitoring
+- [x] Deploy a static website on S3
+- [x] Launch and test a Lambda function
+- [x] Attach API Gateway to Lambda
+- [x] Set up basic CloudWatch monitoring
 
 ---
 
